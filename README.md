@@ -18,14 +18,15 @@
 
 
 
+
 ```
-python3 main.py 企业名称/域名
+python3 MumudaDict.py 企业名称/域名
 
 例子：
-python3 main.py 钟石华
-python3 main.py zhongshihua.com
-python3 main.py zhonghsihua
-python3 main.py www.qing-hua.cn.com
+python3 MumudaDict.py 钟石华
+python3 MumudaDict.py zhongshihua.com
+python3 MumudaDict.py zhonghsihua
+python3 MumudaDict.py www.qing-hua.cn.com
 //生成的是qing-hua的字典，只支持一级域
 ```
 
